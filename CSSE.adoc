@@ -10,7 +10,7 @@ confidence. For each task, please mark the one response that represents
 your confidence in your *_current ability_* to successfully complete the
 task.
 
-[width="99%",cols="64%,6%,6%,6%,6%,6%,6%",frame="none",grid="none",]
+[width="99%",cols="64%,6%,6%,6%,6%,6%,6%",frame="all",grid="all",]
 |=======================================================================
 | 2+<| [small]#No confidence at all# 2+| 2+>| [small]#Complete confidence#
 |1. Identify the scale of measurement for a variable. |1 |2 |3 |4 |5 |6
