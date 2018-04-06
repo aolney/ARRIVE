@@ -1,0 +1,30 @@
+[[current-statistics-self-efficacy]]
+Current Statistics Self-efficacy
+--------------------------------
+
+Please rate your confidence in your *_current ability_* to successfully
+complete the following tasks. The item scale has 6 possible responses:
+(1) no confidence at all, (2) a little confidence, (3) a fair amount of
+confidence, (4) much confidence, (5) very much confidence, (6) complete
+confidence. For each task, please mark the one response that represents
+your confidence in your *_current ability_* to successfully complete the
+task.
+
+[width="99%",cols="64%,6%,6%,6%,6%,6%,6%",frame="none",grid="none",]
+|=======================================================================
+| 2+<| [small]#No confidence at all# 2+| 2+>| [small]#Complete confidence#
+|1. Identify the scale of measurement for a variable. |1 |2 |3 |4 |5 |6
+|2. Interpret the probability value (p-value) from a statistical procedure. |1 |2 |3 |4 |5 |6
+|3. Identify if a distribution is skewed when given the values of three measures of central tendency. |1 |2 |3 |4 |5 |6
+|4. Select the correct statistical procedure to be used to answer a research question. |1 |2 |3 |4 |5 |6
+|5. Interpret the results of a statistical procedure in terms of the research question. |1 |2 |3 |4 |5 |6
+|6. Identify the factors that influence power. |1 |2 |3 |4 |5 |6
+|7. Explain what the value of the standard deviation means in terms of the variable being measured. |1 |2 |3 |4 |5 |6
+|8. Distinguish between a Type I error and a Type II error in hypothesis testing. |1 |2 |3 |4 |5 |6
+|9. Explain what the numeric value of the standard error is measuring. |1 |2 |3 |4 |5 |6
+|10. Distinguish between the objectives of descriptive versus inferential statistical procedures. |1 |2 |3 |4 |5 |6
+|11. Distinguish between the information given by the three measures of central tendency. |1 |2 |3 |4 |5 |6
+|12. Distinguish between a population parameter and a sample statistic. |1 |2 |3 |4 |5 |6
+|13. Identify when the mean, median and mode should be used as a measure of central tendency. |1 |2 |3 |4 |5 |6
+|14. Explain the difference between a sampling distribution and a population distribution. |1 |2 |3 |4 |5 |6
+|=======================================================================
